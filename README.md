@@ -1,4 +1,3 @@
-# n33
 <h1 align="center">Hi 👋, I'm N3</h1>
 <h3 align="center">a water painter</h3>
 
